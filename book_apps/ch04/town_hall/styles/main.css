@@ -19,7 +19,7 @@ header h2 {
 	font-size: 220%;
     color: #f2972e;
     text-align: center;
-	text-shadow: 2px 2px 2px black;
+	text-shadow: 4px 4px 5px black, 5px 5px 5px red,  7px 7px 2px yellow;
 }
 header h3 {
 	font-size: 130%;
