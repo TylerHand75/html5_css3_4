@@ -1,13 +1,16 @@
 /* the styles for the elements */
-html {
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
 	background-image: -webkit-linear-gradient(top, white 0%, #facd8a 100%);	
 	background-image: -moz-linear-gradient(top, white 0%, #facd8a 100%);
 	background-image: -o-linear-gradient(top, white 0%, #facd8a 100%);
 	background-image: linear-gradient(top, white 0%, #facd8a 100%);	
+	background-repeat:repeat-x;
+	background-color: #facd8a;
 }
-body {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 100%;
+#container {
 	width: 700px;
 	background-color: white;
 	margin: 1em auto;
@@ -15,6 +18,7 @@ body {
 	border: 1px solid black;
 	border-radius: 25px;
 	box-shadow: 5px 5px 0 0;
+
 }
 
 h1, h2, h3, p {
