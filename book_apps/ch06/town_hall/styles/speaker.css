@@ -71,7 +71,8 @@ article {
 	padding-right: 25px;
 	float: right;
 	 
-/*	column-count: 2; */   
+	column-count: 2; 
+	  
 
 }
 article h1 {
